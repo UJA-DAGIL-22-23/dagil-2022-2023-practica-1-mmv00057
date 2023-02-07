@@ -1,0 +1,32 @@
+{
+  "Plantilla Práctica 1": {
+    "descripcion": "Este es un repositorio básico para comprobar cómo funciona GitHub y, especialmente, GitHub Classroom.",
+    "tareas": [
+      "Modificar este fichero README.md de modo que pongas tus datos en formato MarkDown. (HECHO)",
+      "Añadir un fichero datos.json en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato JSON."
+    ],
+    "Modesto Monzon Vazquez": {
+      "foto": "/modesto-2023.JPG",
+      "descripcion": "Alumno de Informática de la Universidad de Jaén.",
+      "datos": {
+        "Correo": "mmv00057@red.ujaen.es",
+        "GitHub": "https://github.com/mmv00057",
+        "Trello": "https://trello.com/invite/b/vo2LrR3O/ATTI8aff96243c280db8c4951e1ed305c31651DD373F/desarrollo-agil"
+      },
+      "capturas_pantalla": [
+        {
+          "nombre": "tablero_inicio",
+          "url": "/TABLERO-1.jpg"
+        },
+        {
+          "nombre": "tablero_realizacion",
+          "url": "/TABLERO-2.jpg"
+        },
+        {
+          "nombre": "perfil_github",
+          "url": "/PERFIL-GITHUB.jpg"
+        }
+      ]
+    }
+  }
+}
