@@ -12,9 +12,14 @@ Alumno de Informática de la Universidad de Jaén.
 * **GitHub**: https://github.com/mmv00057
 * **Trello**: https://trello.com/invite/b/vo2LrR3O/ATTI8aff96243c280db8c4951e1ed305c31651DD373F/desarrollo-agil
 
-Captura de pantalla del tablero al inicio 
+####Captura de pantalla del tablero al inicio 
+
 <img src='/TABLERO-1.jpg' width='500px'>
-Captura de pantalla del tablero en la realización del ejercicio
+
+####Captura de pantalla del tablero en la realización del ejercicio
+
 <img src='/TABLERO-2.jpg' width='500px'>
-Captura de pantalla del perfil en GitHub
+
+####Captura de pantalla del perfil en GitHub
+
 <img src='/PERFIL-GITHUB.jpg' width='500px'>
